@@ -14,6 +14,3 @@ I’ve been solving C programming questions to improve my logic building and cod
 - Pointers  
 - Structures and File Handling 
 
-# Note
-These programs are **part of my learning journey**.  
-They may not be fully optimized, but they show my **daily practice and growth** as I improve in programming.
