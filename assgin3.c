@@ -136,7 +136,7 @@
 //      if(a!=a%100)
 //        printf("a=%d Three digit number",a);
 //      else
-//        printf("a=%d Not three digit number",a);   // 45 Program pending  ( ass-8, quest- 1 )
+//        printf("a=%d Not three digit number",a);   // 45 Program   ( ass-8, quest- 1 )
 //     return 0;
 //    }
 

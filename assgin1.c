@@ -54,7 +54,7 @@
 // }
 
 // int main() {
-//     int length,width;
+//     int length,width; 
 //     printf("Enter lenght of a rectanglr: ");
 //     scanf("%d",&length);
 

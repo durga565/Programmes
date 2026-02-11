@@ -45,7 +45,7 @@
 // int main() {
 //      int sc,mth,eng,geo,hin;
 //      float marks;
-//      printf("Enter five subjecys number: ");
+//      printf("Enter five subjects number: ");
 //      scanf("%d %d %d %d %d",&sc,&mth,&eng,&geo,&hin);   // 51 Program
 //      marks=sc+mth+eng+geo+hin/0.5;
 //       if(marks>33) {

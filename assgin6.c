@@ -238,7 +238,7 @@
 //   }
 
 
-// 1. Write a program to find the Nth term of the Fibpnacci series.
+// 1. Write a program to find the Nth term of the Fibonacci series.
 
 // int main() {
 //       int a = -1, b = 1, c, n;
