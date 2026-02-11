@@ -172,20 +172,22 @@
 //    }
 
 
-//  int main() {
-//      int year;
-//      printf("Enter a year: ");
-//      scanf("%d",&year);
+int main() {
+    int year;
 
-//      if(year&100==0)
-//        if(year%400==0)
-//           printf("Leap year");
-//            else
-//             printf(" non Leap Year\n"); // pending  ---  ( Leap year check )
-//              else  {
-//                if(year%4==0)
-//                 printf("Leap year\n");
-//              } printf("Non Leap year");  48 Program --
+    printf("Enter year: " );
+    scanf("%d", &year);
+    
+    if(year % 100 == 0) {
+        if(year % 400 == 0)
+          printf("Leap year\n");
+        else
+          printf("Non Leap Year\n");
+    } else if(year % 4 == 0) {
+        printf("Leap year\n");
+    } else 
+        printf("Non Leap Year\n");
 
-//             return 0;
-//  }
+        return 0;
+
+}
